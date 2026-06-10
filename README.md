@@ -2,7 +2,8 @@
 
 ## Desafio do curso de GitHub
 
-## <center><h1> Sejam Bem Vindos ao Mundo de Rodrigo :trollface: </h1></center>
+## <p style="text-align: Sejam Bem Vindos ao Mundo de Rodrigo :trollface: </p>
+
 
 
 
